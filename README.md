@@ -8,7 +8,7 @@ I build modern web interfaces with a focus on **clean UI, maintainable architect
 
 Frontend is my main area, but I also work with backend services, databases and deployment when a project requires it.
 
-[LinkedIn](https://www.linkedin.com/in/andrei-moskov) · [GitHub](https://github.com/feg55) · [Twitter](https://github.com/feg55)
+[LinkedIn](https://www.linkedin.com/in/andrei-moskov) · [GitHub](https://github.com/feg55) · [Twitter](https://x.com/feg1885)
 
 </div>
 
