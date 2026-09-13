@@ -81,7 +81,7 @@ Desktop application for managing authorized media downloads, metadata and backgr
 
 ### Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/andrei-moskov) · [GitHub](https://github.com/feg55)
+[LinkedIn](https://www.linkedin.com/in/andrei-moskov) · [Twitter](https://x.com/feg1885)
 
 <sub>Building useful products one component at a time.</sub>
 
