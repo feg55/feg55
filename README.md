@@ -17,7 +17,7 @@ Frontend is my main area, but I also work with backend services, databases and d
 ## 👨‍💻 About
 
 Frontend-focused developer working primarily with **React and TypeScript**.  
-I enjoy building complete products — from interface architecture and state management to API integration and backend services.
+I enjoy building complete products - from interface architecture and state management to API integration and backend services.
 
 ---
 
